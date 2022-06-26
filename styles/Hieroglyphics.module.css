@@ -1,0 +1,50 @@
+.pageTitle {
+    font-size: 2rem;
+    width: 100%;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.mainContainer {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.imageContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1200px
+}
+
+.translator {
+    padding-left: 10%;
+    border-radius: 50%;
+}
+
+
+.painting {
+    padding-right: 10%;
+    border-radius: 50%;
+}
+
+.phrases {
+    padding-left: 10%;
+    border-radius: 50%;
+}
+
+.translations2 {
+    padding-left: 10%;
+    border-radius: 50%;
+
+}
+
+.p {
+    align-items: flex-start;
+    font-size: 0.8rem;
+    margin-left: 1em;
+    
+
+}
